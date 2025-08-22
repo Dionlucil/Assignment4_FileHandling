@@ -1,0 +1,20 @@
+# Assignment 4: File Handling in Python  
+
+This repository contains my work for **Assignment 4 – File Handling**.  
+The goal of this assignment was to practice reading from and writing to text files using Python.  
+
+
+
+## Files in this Repository
+- `ANSWERS.py` – Python script that reads input from a text file and writes the output to another file.  
+- `input.txt` – Sample input file containing the data used by the script.  
+- `output.txt` – File generated after running the Python program (contains the results).  
+
+
+
+## How the Program Works
+1. Reads data from `input.txt`.  
+2. Performs simple processing (counting words/lines, or any required task).  
+3. Saves the results into `output.txt`.  
+
+
