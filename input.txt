@@ -1,0 +1,5 @@
+Python is powerful.
+File handling is useful.
+Errors must be handled well.
+Practice makes perfect.
+Coding is fun!
